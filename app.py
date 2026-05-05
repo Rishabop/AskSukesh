@@ -137,11 +137,12 @@ if prompt := st.chat_input("Type your chemistry doubt here..."):
     # Get AI response
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
+            recent_messages = st.session_state.messages[-5:]
             response = client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": SYSTEM_PROMPT}
-                ] + st.session_state.messages,
+                ] + recent_messages,
                 max_tokens=250,
                 temperature=0.5
             )
