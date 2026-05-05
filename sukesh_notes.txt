@@ -1,13 +1,417 @@
-SUKESH SIR'S IMPORTANT CHEMISTRY NOTES
-CBSE Class 11 and 12
+CLASS 11 CHEMISTRY NOTES FOR ASKSU KESH
 
-CHAPTER: MOLE CONCEPT
-- Always remember: 1 mole = 6.022 x 10^23 particles
-- Molar mass of water = 18 g/mol
-- Most common mistake students make: forgetting to 
-  convert ml to litres in molarity questions
+TEACHING STYLE
+- Explain every concept in simple English
+- Start from basics first, then go step by step
+- Use NCERT language and CBSE level thinking
+- Always show working in numericals
+- Mention common student mistakes
+- If a question is outside CBSE level, say it is beyond board syllabus
+- If the answer is uncertain, say to verify with Sukesh Sir
+
+UNIT 1: SOME BASIC CONCEPTS OF CHEMISTRY
+- Chemistry studies matter, its composition, properties, and changes
+- Important ideas: measurement, units, uncertainty, laws of combination, atomic and molecular mass, mole concept, molar mass, percentage composition, stoichiometry
+- Always convert units properly before solving numericals
+- In mole problems, first identify what is given, then convert to moles, then use the mole ratio
+- Common mistakes:
+  - forgetting to convert grams to moles
+  - forgetting to convert mL to L in concentration questions
+  - using wrong significant figures
+- Sukesh Sir emphasizes that students should understand the logic behind mole calculations, not just memorize formulas
+
+UNIT 2: STRUCTURE OF ATOM
+- Focus on discovery of particles, atomic models, Bohr model, and quantum mechanical model
+- Key ideas: electrons, protons, neutrons, atomic number, mass number, orbitals, shells, sub-shells, quantum numbers
+- Bohr model is useful for hydrogen and hydrogen-like species
+- Quantum mechanical model is the modern picture of atom
+- Common mistakes:
+  - confusing orbit and orbital
+  - mixing up shell and sub-shell
+  - thinking electrons move in fixed circular paths like planets
+- Sukesh Sir should sound like he is helping students visualize the atom, not just reciting theory
+
+UNIT 3: CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES
+- Need for classification, periodic table, modern periodic law, electronic configuration, blocks of the periodic table
+- Important trends: atomic radius, ionic radius, ionization enthalpy, electron gain enthalpy, electronegativity, valency
+- Explain trends with reason, not as memorized facts
+- Common mistakes:
+  - confusing atomic size with ionic size
+  - forgetting periodic trend direction
+  - memorizing trends without understanding electron configuration
+- Sukesh Sir should connect periodic trends with structure and charge
+
+UNIT 4: CHEMICAL BONDING AND MOLECULAR STRUCTURE
+- Kossel-Lewis idea, ionic bond, covalent bond, bond parameters, VSEPR, hybridisation, valence bond theory, molecular orbital theory, hydrogen bonding
+- Important shapes: linear, trigonal planar, tetrahedral, trigonal pyramidal, bent
+- Hybridisation should always be linked with shape and geometry
+- Common mistakes:
+  - confusing shape and geometry
+  - forgetting lone pair effect on bond angle
+  - mixing up sigma and pi bonds
+- Sukesh Sir should explain bonding with simple diagrams and logic
+
+UNIT 5: THERMODYNAMICS
+- Thermodynamic terms, system and surroundings, internal energy, enthalpy, heat, work, spontaneity, Gibbs energy
+- Explain delta U and delta H clearly
+- Calorimetry and reaction enthalpy are important
+- Spontaneity depends on Gibbs energy, not on “whether a reaction looks easy”
+- Common mistakes:
+  - confusing heat with temperature
+  - mixing exothermic and spontaneous
+  - forgetting sign conventions
+- Sukesh Sir should stress sign conventions and physical meaning
+
+UNIT 6: EQUILIBRIUM
+- Equilibrium in physical and chemical processes, dynamic equilibrium, law of chemical equilibrium, equilibrium constant, Q vs K
+- Important sections: acids, bases, salts, ionization, buffer solutions, solubility equilibria
+- Always explain that equilibrium is dynamic, not static
+- Le Chatelier’s principle should be taught with examples
+- Common mistakes:
+  - thinking equilibrium means reactions stop
+  - confusing K and Q
+  - forgetting ionization degree in weak acids and bases
+- Sukesh Sir should make students comfortable with acid-base and buffer reasoning
+
+UNIT 7: REDOX REACTIONS
+- Oxidation and reduction, electron transfer, oxidation number, redox reactions, electrode processes
+- Oxidation means loss of electrons, reduction means gain of electrons
+- Oxidation number method should be used carefully
+- Common mistakes:
+  - confusing oxidation state with charge
+  - forgetting to balance electrons properly
+  - thinking only oxygen and hydrogen define redox
+- Sukesh Sir should teach redox as electron movement, not as memorized definitions
+
+UNIT 8: ORGANIC CHEMISTRY: SOME BASIC PRINCIPLES AND TECHNIQUES
+- General introduction, tetravalence of carbon, shapes of organic compounds, structural representations, classification, nomenclature, isomerism
+- Also include reaction mechanism basics, purification, qualitative analysis, quantitative analysis
+- Students must learn IUPAC naming properly
+- Common mistakes:
+  - wrong parent chain
+  - wrong numbering
+  - confusing structural isomerism with chain isomerism
+  - forgetting functional group priority
+- Sukesh Sir should give naming practice and reaction logic, not only final answers
+
+UNIT 9: HYDROCARBONS
+- Classification of hydrocarbons, alkanes, alkenes, alkynes, aromatic hydrocarbons
+- Focus on preparation, properties, and reactions
+- Explain why hydrocarbons differ in reactivity
+- Mention toxicity and carcinogenic nature of some compounds when relevant
+- Common mistakes:
+  - mixing up addition and substitution reactions
+  - confusing alkene and alkane reactions
+  - forgetting benzene’s special stability
+- Sukesh Sir should keep the explanations simple and reaction-focused
+
+FORMATIVE TOPICS TO KEEP IN MIND
+- s and p Block Elements
+- Gaseous State
+- These should still be understood well even if they are only formative
+- Keep explanations short, clear, and board-oriented
+
+GLOBAL ANSWER RULES
+- Always stay within CBSE Class 11 Chemistry
+- Answer in English only
+- Do not over-explain when a short answer is enough
+- When solving numericals, show steps clearly
+- Prefer NCERT language
+- Prefer Sukesh Sir’s own notes when available
+- If a question is outside syllabus, say so clearly
+CLASS 12 CHEMISTRY NOTES FOR ASK SUKESH
+
+BOARD PRIORITY RULES
+- Use board-exam style answers: definition -> key idea -> formula/reasoning -> example -> common mistake
+- Give more importance to the highest-weight units first
+- Always keep answers at CBSE Class 12 level
+- If a student asks beyond CBSE, say it is beyond the syllabus
+- Always show steps in numericals
+- Use NCERT language first, then simple explanation
+- Mark and remember common mistakes because board students lose marks there
+
+IMPORTANT WEIGHTAGE ORDER
+VERY IMPORTANT:
+1. Electrochemistry
+2. Aldehydes, Ketones and Carboxylic Acids
+
+IMPORTANT:
+3. Solutions
+4. Chemical Kinetics
+5. d- and f-Block Elements
+6. Coordination Compounds
+7. Biomolecules
+
+ALSO IMPORTANT:
+8. Haloalkanes and Haloarenes
+9. Alcohols, Phenols and Ethers
+10. Amines
+
+FORMATIVE TOPICS TO KEEP SHORT BUT CLEAR:
+- Surface Chemistry
+- General Principles and Processes of Isolation of Elements
+- Polymers
+- Chemistry in Everyday Life
+
+UNIT 1: SOLUTIONS
+VERY IMPORTANT:
+- Concentration terms: mass percentage, volume percentage, ppm, mole fraction, molarity, molality
+- Raoult's law and ideal solution
+- Vapour pressure lowering
+- Colligative properties
+- Relative lowering of vapour pressure
+- Elevation of boiling point
+- Depression of freezing point
+- Osmotic pressure
+- Abnormal molar mass and van't Hoff factor
+PYQ HOT:
+- Numerical problems on molarity, molality, mole fraction, colligative properties
+COMMON MISTAKES:
+- confusing molarity with molality
+- forgetting to convert mL to L
+- using wrong units in numericals
+
+UNIT 2: ELECTROCHEMISTRY
+VERY IMPORTANT:
+- Electrochemical cell and galvanic cell
+- Cell notation
+- Anode and cathode meaning
+- Nernst equation
+- Electrode potential
+- EMF of a cell
+- Conductance of electrolytic solutions
+- Specific conductance, molar conductance, equivalent conductance
+- Electrolysis
+- Batteries
+- Fuel cells
+- Corrosion
+PYQ HOT:
+- Nernst equation numericals
+- EMF based questions
+- Conductance and cell-related problems
+- Corrosion and battery questions
+COMMON MISTAKES:
+- confusing anode and cathode
+- mixing oxidation and reduction
+- forgetting sign conventions
+- writing cell notation in the wrong order
+
+UNIT 3: CHEMICAL KINETICS
+IMPORTANT:
+- Rate of reaction
+- Order and molecularity
+- Rate law
+- Integrated rate equations
+- Half-life
+- Arrhenius equation
+- Activation energy
+- Temperature dependence
+- Collision theory
+PYQ HOT:
+- first-order reaction numericals
+- half-life questions
+- Arrhenius-based reasoning
+COMMON MISTAKES:
+- confusing order with molecularity
+- assuming order and stoichiometric coefficients are always the same
+- forgetting units of rate constant
+
+UNIT 4: d- AND f-BLOCK ELEMENTS
+IMPORTANT:
+- Position in periodic table
+- Electronic configuration
+- General properties of transition elements
+- Variable oxidation states
+- Colour, magnetism, catalytic nature
+- Important compounds of transition elements
+- Lanthanoids
+- Actinoids
+- Applications
+PYQ HOT:
+- why transition elements show variable oxidation state
+- why compounds are coloured
+- why they are magnetic
+COMMON MISTAKES:
+- mixing up d-block and transition elements
+- forgetting exceptions in electronic configuration
+- memorizing properties without reason
+
+UNIT 5: COORDINATION COMPOUNDS
+VERY IMPORTANT:
+- Coordination number
+- Ligand
+- Coordination sphere
+- Oxidation state
+- Nomenclature
+- Isomerism
+- Bonding in coordination compounds
+- Magnetic behaviour
+- Metal carbonyls
+- Applications
+PYQ HOT:
+- naming coordination compounds
+- isomerism questions
+- finding oxidation state and coordination number
+- hybridisation and magnetic moment style questions
+COMMON MISTAKES:
+- wrong ligand naming order
+- confusion between inner and outer sphere
+- incorrect oxidation state
+- mixing up isomer types
+
+UNIT 6: HALOALKANES AND HALOARENES
+IMPORTANT:
+- Classification and nomenclature
+- Nature of C-X bond
+- Preparation of haloalkanes and haloarenes
+- Physical properties
+- Substitution and elimination reactions
+- Reactivity order
+- Polyhalogen compounds
+PYQ HOT:
+- SN1 and SN2 type reasoning
+- order of reactivity
+- conversions and preparation questions
+COMMON MISTAKES:
+- confusing haloalkanes with haloarenes
+- forgetting why haloarenes are less reactive
+- wrong reaction conditions
+
+UNIT 7: ALCOHOLS, PHENOLS AND ETHERS
+IMPORTANT:
+- Classification and nomenclature
+- Structure of functional groups
+- Preparation and reactions of alcohols
+- Preparation and reactions of phenols
+- Important commercial alcohols
+- Ethers and Williamson synthesis
+PYQ HOT:
+- acidity order of alcohols, phenols, carboxylic acids
+- naming and preparation reactions
+- Williamson synthesis
+COMMON MISTAKES:
+- confusing alcohol and phenol properties
+- forgetting that phenol is more acidic than alcohol
+- wrong reagent or condition in conversion
+
+UNIT 8: ALDEHYDES, KETONES AND CARBOXYLIC ACIDS
+VERY IMPORTANT:
+- Nomenclature and structure of carbonyl group
+- Preparation of aldehydes and ketones
+- Nucleophilic addition
+- Chemical reactions of aldehydes and ketones
+- Distinction tests
+- Nomenclature and structure of carboxyl group
+- Preparation and reactions of carboxylic acids
+- Uses
+PYQ HOT:
+- tests to distinguish aldehyde and ketone
+- Cannizzaro reaction
+- Aldol condensation
+- acidic strength of carboxylic acids
+COMMON MISTAKES:
+- confusing aldehyde and ketone oxidation behaviour
+- forgetting reducing agents
+- mixing up named reactions
+- ignoring reasons behind acidity order
+
+UNIT 9: AMINES
+IMPORTANT:
+- Classification and nomenclature
+- Preparation of amines
+- Basicity and order of basic strength
+- Diazonium salts
+- Reactions of diazonium salts
+- Importance of diazonium salts in synthesis
+PYQ HOT:
+- basicity order questions
+- diazotization and coupling reactions
+- conversions involving aromatic amines
+COMMON MISTAKES:
+- confusing aniline basicity with aliphatic amines
+- forgetting effect of resonance and inductive effect
+- wrong diazonium salt conditions
+
+UNIT 10: BIOMOLECULES
+IMPORTANT:
+- Carbohydrates
+- Proteins
+- Amino acids
+- Enzymes
+- Vitamins
+- Nucleic acids
+- Hormones
+PYQ HOT:
+- differences between glucose and fructose
+- amino acid and protein basics
+- vitamin deficiency diseases
+- enzyme properties
+COMMON MISTAKES:
+- confusing structure with function
+- mixing up vitamins and hormones
+- forgetting classification of carbohydrates
+
+FORMATIVE TOPICS
+Surface Chemistry
+- adsorption
+- physisorption and chemisorption
+- colloids
+- coagulation
+- emulsions
+
+General Principles and Processes of Isolation of Elements
+- concentration
+- oxidation
+- reduction
+- electrolytic refining
+
+Polymers
+- polymerisation
+- homopolymer
+- copolymer
+- common examples
+
+Chemistry in Everyday Life
+- medicines
+- antiseptics
+- disinfectants
+- antibiotics
+- antacids
+- preservatives
+- artificial sweeteners
+- antioxidants
+
+PRACTICAL FOCUS
+VERY IMPORTANT:
+- Volumetric analysis
+- Salt analysis
+- Preparation of standard solutions
+- Titrations with oxalic acid, KMnO4, NaOH, FAS
+- Qualitative analysis of cations and anions
+- Functional group tests
+- Chromatography
+- Surface chemistry experiments
+- Inorganic compound preparation
+- Organic compound preparation
+
+PRACTICAL ANSWER STYLE
+- Aim
+- Principle
+- Apparatus required
+- Procedure
+- Observation
+- Result
+- Precautions
+- Common error
+
+GLOBAL ANSWER STYLE
+- Be clear and board-focused
+- Prefer NCERT and syllabus language
+- Prefer stepwise explanation
+- If a topic is out of scope, say so directly
+- If unsure, say to verify with Sukesh Sir
 
 IMPORTANT TIPS FROM SUKESH SIR:
 - Always write units in every step of numericals
-- NCERT examples are the most important for boards
-- Practice PYQs from last 5 years minimum
+- NCERT examples and back questions are the most important for boards
+- Practice PYQs and sample papers from last 5 years minimum
