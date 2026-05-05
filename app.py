@@ -90,7 +90,6 @@ def check_login():
         else:
             st.stop()
 
-check_login()
 
 # Custom styling
 st.markdown("""
@@ -105,6 +104,7 @@ st.markdown("""
 # Header
 st.title("🧪 AskSukesh")
 st.caption("Your personal chemistry assistant — powered by Sukesh Sir's teaching")
+check_login()
 
 # Chat history
 if "messages" not in st.session_state:
