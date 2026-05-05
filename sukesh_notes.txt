@@ -414,4 +414,4 @@ GLOBAL ANSWER STYLE
 IMPORTANT TIPS FROM SUKESH SIR:
 - Always write units in every step of numericals
 - NCERT examples and back questions are the most important for boards
-- Practice PYQs and sample papers from last 5 years minimum
+- Practice PYQs and sample papers from last 5 years minimumm
