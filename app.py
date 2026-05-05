@@ -3,7 +3,6 @@ from openai import OpenAI
 
 # Setup
 import os
-import streamlit as st
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Load Sukesh sir's notes
@@ -74,6 +73,24 @@ st.set_page_config(
     page_icon="🧪",
     layout="centered"
 )
+# 🔐 LOGIN SYSTEM
+PASSWORD = st.secrets["APP_PASSWORD"]
+
+def check_login():
+    if "authenticated" not in st.session_state:
+        st.session_state.authenticated = False
+
+    if not st.session_state.authenticated:
+        pwd = st.text_input("Enter password", type="password")
+        if pwd == PASSWORD:
+            st.session_state.authenticated = True
+        elif pwd:
+            st.error("Wrong password")
+            st.stop()
+        else:
+            st.stop()
+
+check_login()
 
 # Custom styling
 st.markdown("""
@@ -123,7 +140,9 @@ if prompt := st.chat_input("Type your chemistry doubt here..."):
                 model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": SYSTEM_PROMPT}
-                ] + st.session_state.messages
+                ] + st.session_state.messages,
+                max_tokens=250,
+                temperature=0.5
             )
             reply = response.choices[0].message.content
             st.markdown(reply)
