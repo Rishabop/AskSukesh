@@ -3,9 +3,8 @@ from openai import OpenAI
 
 # Setup
 import os
-from dotenv import load_dotenv
-load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+import streamlit as st
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Load Sukesh sir's notes
 with open("sukesh_notes.txt", "r") as f:
