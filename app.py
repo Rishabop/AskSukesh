@@ -84,6 +84,7 @@ def check_login():
         pwd = st.text_input("Enter password", type="password")
         if pwd == PASSWORD:
             st.session_state.authenticated = True
+            st.rerun()
         elif pwd:
             st.error("Wrong password")
             st.stop()
